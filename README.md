@@ -13,7 +13,7 @@ This is a web application built with Angular that allows users to browse housing
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/codeswiam/house-rent.git
    cd house-rent
    ```
 
@@ -37,7 +37,3 @@ This is a web application built with Angular that allows users to browse housing
 - Add user authentication for personalized experiences.
 - Implement a backend service for managing housing data.
 - Enhance the UI with additional styling and animations.
-
-## License
-
-This project is licensed under the MIT License.
